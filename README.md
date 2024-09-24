@@ -4,6 +4,8 @@ GAP is a program written in Python 3 to calculate the paring gap in nuclei using
 
 The interpolation method was taken from Mang et al (DOI: https://doi.org/10.1016/0029-5582(65)90564-X).
 
+The code is based off an old version written in Fortran (see "fortran_ver").
+
 Masses are read from the latest Atomic Mass Evaluation (https://www-nds.iaea.org/amdc/).  
 
 # File list
